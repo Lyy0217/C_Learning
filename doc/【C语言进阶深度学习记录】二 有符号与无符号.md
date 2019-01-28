@@ -34,7 +34,6 @@ C语言中，数据类型的最高位，用于标识数据的符号。
 
 ![](http://m.qpic.cn/psb?/V12UXsXm3z1Xes/6D55wvw7ojznif4wUe6VKEmCBjMHT8XkTs7GZeCyTnE!/b/dFIBAAAAAAAA&bo=9ALuAAAAAAADFyo!&rf=viewer_4)
 
- 
 
 ### 1.2 无符号数的表示法
 
