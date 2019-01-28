@@ -1,6 +1,6 @@
 > 今天学习C语言中的数据类型的本质与变量的本质
 
- @[toc]
+
 ##  1 什么是数据类型
 
 - 数据类型可以理解为固定内存大小的别名
@@ -8,7 +8,9 @@
 
 如同下面的图示，各个数据类型是代表了某一个固定大小的内存，数据类型是这块内存的别名。
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190126235007269.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM3Mzc1NDI3,size_16,color_FFFFFF,t_70#pic_center)
+
 然后，当我们要创建一个变量时，就使用上述的基本数据类型为模子，产生一个新的变量，如下图所示：
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2019012623512641.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM3Mzc1NDI3,size_16,color_FFFFFF,t_70#pic_center)
 
 这些新的变量，是根据基本数据类型这个模子，来刻画变量所占用的内存空间的大小。
